@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    
+}
+
+.container {
+   
+    max-width: 600px;
+    margin: 70px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); 
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
+}
+
+h2 {
+    margin-bottom: 10px;
+    text-align: center;
+
+    color: black;
+}
+
+.confirmation-details {
+    padding: 20px;
+}
+
+.confirmation-details p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: black;
+}
+
+.confirmation-details strong {
+    font-weight: bold;
+    color: black;
+}
+
+.confirmation-details span {
+    font-weight: normal;
+    color: black;
+}
